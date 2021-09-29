@@ -1,0 +1,16 @@
+# Neuro-Ising
+Acelerating Travelling Salesman Problems via Graph Neural Network guided localized Ising Solvers
+
+This work divides a Travelling Salesman Problem(TSP) by applying clustering to divide it into two systems
+  1) Neuro Layer -- consisting of cluster centroids
+  2) Ising Layer -- consisting of the clusters themselves
+  
+The Neuro Layer is built on top of the repo https://github.com/chaitjo/graph-convnet-tsp
+
+The Ising Layer is implemented in C++ and the following source files are in the directory ising_annealing
+
+gen_cluster.ipynb is responsible for clustering and visualizing the clusters
+
+main.ipynb generates the final TSP Solution
+
+
