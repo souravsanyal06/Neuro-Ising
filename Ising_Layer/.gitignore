@@ -1,0 +1,7 @@
+.DS_Store
+in.txt
+*.log
+*.o
+*.out
+ising
+!output/*.out
