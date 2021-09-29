@@ -15,4 +15,9 @@ gen_cluster.ipynb is responsible for clustering and visualizing the clusters.
 
 main.ipynb generates the final TSP Solution.
 
+Before starting
+
+create a directory called tsplib in the root, and add the tsp benchmarks inside it.
+
+
 
