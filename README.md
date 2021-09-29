@@ -15,7 +15,7 @@ gen_cluster.ipynb is responsible for clustering and visualizing the clusters.
 
 main.ipynb generates the final TSP Solution.
 
-Before starting
+#Before starting
 
 create a directory called tsplib in the root, and add the tsp .txt benchmark files inside it. (available at https://drive.google.com/file/d/1-5W-S5e7CKsJ9uY9uVXIyxgbcZZNYBrp/view )
 Inside Neuro_Layer/
