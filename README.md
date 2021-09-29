@@ -17,7 +17,14 @@ main.ipynb generates the final TSP Solution.
 
 Before starting
 
-create a directory called tsplib in the root, and add the tsp benchmarks inside it.
+create a directory called tsplib in the root, and add the tsp .txt benchmark files inside it. (available at https://drive.google.com/file/d/1-5W-S5e7CKsJ9uY9uVXIyxgbcZZNYBrp/view )
+Inside Neuro_Layer/
+
+create a directory called tsp-models/
+Inside it you can store your trained models. 
+Pretrained models can be downloaded from https://drive.google.com/file/d/1qmk1_5a8XT_hrOV_i3uHM9tMVnZBFEAF/view 
+
+Extract the .tar.gz file and place each directory in the /logs directory. 
 
 
 
