@@ -1,0 +1,8 @@
+*.pyc
+concorde/_concorde.c
+
+data/
+build/
+concorde.egg-info/
+
+
