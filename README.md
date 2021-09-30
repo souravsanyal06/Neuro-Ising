@@ -5,7 +5,7 @@ This work divides a Travelling Salesman Problem(TSP) by applying clustering to d
   1) Neuro Layer -- consisting of cluster centroids
   2) Ising Layer -- consisting of the clusters themselves
   
-The Neuro Layer is built on top of the repo https://github.com/chaitjo/graph-convnet-tsp, which uses a Graph Neural Network (GNN) to generate TSP solutions of the cluster centroids.
+The Neuro Layer uses a Graph Neural Network (GNN) to generate TSP solutions of the cluster centroids.
 
 The Ising Layer is implemented in C++ and the following source files are in the directory Ising_Layer.
 ising is the executable in root directory, which is copied there after generating from Ising_Layer.
