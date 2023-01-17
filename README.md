@@ -28,7 +28,8 @@ Pretrained models can be downloaded from https://drive.google.com/file/d/1qmk1_5
 Extract the .tar.gz file and place each directory in the /logs directory. 
 
 
-If you find this code useful, please cite the folllowing paper:
+# If you find this code useful, please cite the folllowing paper:
+
 S. Sanyal and K. Roy, "Neuro-Ising: Accelerating Large-Scale Traveling Salesman Problems via Graph Neural Network Guided Localized Ising Solvers," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 41, no. 12, pp. 5408-5420, Dec. 2022, doi: 10.1109/TCAD.2022.3164330.
 
 https://ieeexplore.ieee.org/abstract/document/9747927
